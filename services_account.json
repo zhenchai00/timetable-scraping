@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "timetable-apspace-scraping",
+  "private_key_id": "3ed2385cf3346528d2ce1b26a9246d4c78dcdb6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTJ78gJ4mAnp2e\nUvs23/prVdM/4gFQf26fvulIgZT0aaR48mEAiZYO+YMkqDLOqcZ9NCGZa6H5RpCi\nYH8k/KcW82oQZor+sX1lXndR8I7fzK5NLnMoAbvawvisKN5QiFi/k9+FIxVNVjdY\nuX/fzpK6G6YDDBEhnvQH4EoBnVAO9Id/pW49lMYaLJ0l8aIrruN54N9+EPqhUyR2\ngMbtGJeUcN6AerFg+Qvl7kjNX8u0YlwubsUifW+rFHTdXzOesEJ62KwR3VtDXL1h\ncnFNvPMU9d5doZHEI3j1UhlYFeJp/zQrcyuLtSOGVMc3Nz4780tSX+25Eq8XGJmA\nhLDxA/gLAgMBAAECggEAApChyzdaioxj5kY/V2XbYT2TZhH+wIlywy66YDzUp4H5\nOkZ3Rwwe5SSXku7/m7c9MiIo0m9xg6fQOOmtAwGzDo+wR0LnpKgxWFqngnJ1UGn/\n68Z7KV+xB494ctUaMusoKNwJ/Fxv2vOSxBAlA3X//BB5T0+e3igoIW8Duzgjv271\nm9at2Qvog1CNQXdxrriKpgMlra8lUc6ytQuPewLi7YZwFiXsvfIWEiFW7BaQbLWx\na4PC4Ki9tZKaCovUniiL55U8ui+01ny3Z5DY5QdewBHPKSU2CIIQZPtdjA/RNqg8\n2h0m3+SW3PsXo+eM/AHgGNSmEDnMkAZebU0FMsMnUQKBgQDKxeEJtsHFv29+7gRf\nuroFh8y34duR4xmnQkjEnV3e8Db3Wmd4gUyQlaPzetFX3ct8EYRAmiTc3xqAK2JL\ni1/I4eKVLBIZHsja+d3nTgYg44VJ7jRPNt5UVPKUAAe+WwJgOr8m8cTBPt5vQ8We\nu1uQGn+3V0Sb3gqZc8+naL1UUwKBgQC5yGsyBAC+C3dxlJ+JhQA2pA/kMWz8XM+F\nxwVRlyLLEzl3kEwYG+vTCeekQpxhn+HFeQ5vharizkwQYEs7JTSsEPlOh5LakGVx\n14AeAlgTO9jiqEP8K/zavKn0LdefSI47LD0r4kt/u6HUZ0Mb+nYXsGzl4fKmuM8A\nMsdzgcXWaQKBgQDEpZSxe/h900LIwQGi6Q6gcGt75OCwoaJuT90MOGUh4KodxiHU\nfuiGy2hdpz1ATkuZvc8Za6PWQ9OKewhvpPG2ekHoUv4WOIGnw2yNdmCBIsVPxmAa\ndma1OFCscT8RP2eVdUON/CfJFTRYiUwsvRx2Kwyy/EIAOxziZqr6epwqGwKBgCcQ\n6uGgj9tmo95BZ27OheX3h9PvRMCob4bs+8RVaJ6VU08+C5JCRMui2I/k5edtbFdP\nBmcTD4UT5lDHPuqX/0RzaUlHHu1Q0dQngaxNx+F7gzbeNTWQtmH0rDRJc37uDeKJ\nge95bXDVrsjwUd9PQofmtG9+nLzMPdMH2oMCdeyJAoGAYPHT99llceGFBVg0tety\nSErlZRy/7FqD2B/RcuHq0halgsTAW9ZgGsyn1c7741rnJAepoM/BNHSsKW8VMsqS\n9X0Lqct5lv7/Ed+zi6a7xlnsuaLmKvVxZjaHr+wgbtBO2rcB9TamQO0I8PbHDzZK\nKWk2/+qaRwKwGV+h9zfU3n0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "timetable-scraping@timetable-apspace-scraping.iam.gserviceaccount.com",
+  "client_id": "116484647574083060916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/timetable-scraping%40timetable-apspace-scraping.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
