@@ -15,7 +15,7 @@ current_directory = os.path.dirname(__file__)
 env_file_path = os.path.join(current_directory, '.env')
 load_dotenv(env_file_path)
 
-# SMTP send email
+# SMTP send email 
 class Email:
     def __init__(self):
         self.sender = os.getenv('SENDER')
